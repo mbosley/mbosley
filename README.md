@@ -2,6 +2,11 @@
 
 I build practical AI systems for communication intelligence, document workflows, and applied learning.
 
+Currently focused on:
+- audio-first assistants and secure survey chat runtimes
+- document intelligence primitives
+- deliberation measurement at scale
+
 ## Current projects
 
 | Project | Focus |
@@ -11,6 +16,10 @@ I build practical AI systems for communication intelligence, document workflows,
 | 🗣️ **[speaktrace](https://github.com/mbosley/speaktrace)** | Meeting annotation and speaker-attribution tooling |
 | 🎓 **[learnops](https://github.com/mbosley/learnops)** | AI course-support workflows and active-learning operations |
 | 🧭 **[delibtrace](https://github.com/mbosley/delibtrace)** | Reusable primitives for tracing and measuring deliberative quality |
+
+## Selected writing
+
+- _Towards Qualitative Measurement at Scale: A Prompt-Engineering Framework for Large-Scale Analysis of Deliberative Quality in Parliamentary Debates_ (2025, JPIPE). https://doi.org/10.1561/113.00000128
 
 ## Previous foundation
 
