@@ -3,6 +3,8 @@
 
 I build practical AI systems for communication intelligence, document workflows, and applied learning.
 
+[Website](https://mbosley.github.io) · [CV (PDF)](https://mbosley.github.io/cv-bosley.pdf)
+
 Research focus:
 - AI-driven measurement ("qualitative methods at scale") for political/social text, with validity and transparency standards
 - Human–AI interaction and opinion formation, including adaptive conversational treatments
