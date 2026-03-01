@@ -23,9 +23,3 @@ Research focus:
 - _Improving Probabilistic Models in Text Classification via Active Learning_ (2025, APSR). https://doi.org/10.1017/S0003055424000716
 - _Towards Qualitative Measurement at Scale: A Prompt-Engineering Framework for Large-Scale Analysis of Deliberative Quality in Parliamentary Debates_ (2025, JPIPE). https://doi.org/10.1561/113.00000128
 - (Forthcoming) Human–AI interaction survey experiment with an adaptive chatbot treatment (PNAS Nexus).
-
-## Build principles
-
-- Ship reusable cores, keep adapters modular.
-- Prefer deterministic pipelines with auditable artifacts.
-- Use agentic loops where they improve reliability and speed.
