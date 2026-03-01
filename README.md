@@ -25,5 +25,5 @@ Research focus:
 
 - _Improving Probabilistic Models in Text Classification via Active Learning_ (2024, American Political Science Review). https://doi.org/10.1017/S0003055424000716 ([code](https://github.com/activetext/activeText))
 - _Towards Qualitative Measurement at Scale: A Prompt-Engineering Framework for Large-Scale Analysis of Deliberative Quality in Parliamentary Debates_ (2025, Journal of Political Institutions and Political Economy). https://doi.org/10.1561/113.00000128 ([code](https://github.com/mbosley/delibtrace))
-- _Human–AI interaction survey experiment with an adaptive chatbot treatment_ (PNAS Nexus, forthcoming). https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5229084
+- _Human–AI interaction survey experiment with an adaptive chatbot treatment_ (PNAS Nexus, accepted). https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5229084
 <!-- END GENERATED:PROFILE -->
