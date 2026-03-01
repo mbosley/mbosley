@@ -9,6 +9,10 @@ I build agentic systems for communication intelligence, document workflows, and 
 - 🗣️ **[speaktrace](https://github.com/mbosley/speaktrace)** — Meeting annotation + speaker-attribution tooling.
 - 🎓 **[learnops](https://github.com/mbosley/learnops)** — AI course support and active-learning operations.
 
+## Prior foundation
+
+- 🧠 **[activeText](https://github.com/activetext/activeText)** — R package for active-learning text classification (earlier core work).
+
 ## Working style
 
 - Build small, composable systems.
