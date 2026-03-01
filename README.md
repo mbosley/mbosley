@@ -10,7 +10,7 @@ I build practical AI systems for communication intelligence, document workflows,
 | 📄 **[parsekit](https://github.com/mbosley/parsekit)** | Document intelligence primitives for extraction, structuring, and retrieval-ready context |
 | 🗣️ **[speaktrace](https://github.com/mbosley/speaktrace)** | Meeting annotation and speaker-attribution tooling |
 | 🎓 **[learnops](https://github.com/mbosley/learnops)** | AI course-support workflows and active-learning operations |
-| 🗳️ **[dqi-annotation-pipeline](https://github.com/mbosley/dqi-annotation-pipeline)** | Reusable primitives for DQI annotation workflows |
+| 🧭 **[delibtrace](https://github.com/mbosley/delibtrace)** | Reusable primitives for tracing and measuring deliberative quality |
 
 ## Earlier foundation
 
