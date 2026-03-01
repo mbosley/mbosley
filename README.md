@@ -1,24 +1,26 @@
 # Mitchell Bosley
 
-I build agentic systems for communication intelligence, document workflows, and applied learning.
+I build practical AI systems for communication intelligence, document workflows, and applied learning.
 
-## Core projects
+## Flagship repos
 
-- 🎙️ **[voxflow](https://github.com/mbosley/voxflow)** — Audio-first chief-of-staff chatbot workflows.
-- 📄 **[parsekit](https://github.com/mbosley/parsekit)** — Document intelligence and extraction pipeline primitives.
-- 🗣️ **[speaktrace](https://github.com/mbosley/speaktrace)** — Meeting annotation + speaker-attribution tooling.
-- 🎓 **[learnops](https://github.com/mbosley/learnops)** — AI course support and active-learning operations.
+| Project | Focus |
+|---|---|
+| 🎙️ **[voxflow](https://github.com/mbosley/voxflow)** | Audio-first chatbot workflows, transcription-aware actions, and orchestration patterns |
+| 📄 **[parsekit](https://github.com/mbosley/parsekit)** | Document intelligence primitives for extraction, structuring, and retrieval-ready context |
+| 🗣️ **[speaktrace](https://github.com/mbosley/speaktrace)** | Meeting annotation and speaker-attribution tooling |
+| 🎓 **[learnops](https://github.com/mbosley/learnops)** | AI course-support workflows and active-learning operations |
+| 🗳️ **[dqi-annotation-pipeline](https://github.com/mbosley/dqi-annotation-pipeline)** | Reusable primitives for DQI annotation workflows |
 
-## Prior foundation
+## Earlier foundation
 
-- 🧠 **[activeText](https://github.com/activetext/activeText)** — R package for active-learning text classification (earlier core work).
+- 🧠 **[activeText](https://github.com/activetext/activeText)** — R package for active-learning text classification.
 
-## Working style
+## How I build
 
-- Build small, composable systems.
-- Keep deterministic ingestion + logging paths.
-- Use agentic loops where they add real leverage.
+- Ship reusable cores, keep adapters modular.
+- Prefer deterministic pipelines with auditable artifacts.
+- Use agentic loops where they improve reliability and speed.
 
-## Contact
-
-- GitHub: [@mbosley](https://github.com/mbosley)
+---
+[GitHub profile](https://github.com/mbosley)
