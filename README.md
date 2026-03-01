@@ -1,14 +1,14 @@
 <!-- BEGIN GENERATED:PROFILE -->
 # Mitchell Bosley
 
-I build practical AI systems for communication intelligence, document workflows, and applied learning.
+My research is driven by my conviction that Artificial Intelligence (AI) has the potential to revolutionize the way we study and understand politics, and will increasingly reshape the institutions and processes of public policymaking. I work in three interlocking areas: developing AI-driven measurement techniques for political and social text ("qualitative methods at scale") with clear standards for validity and transparency; studying how human–AI interaction shapes political behavior and opinion formation; and building AI workflows for public policy that reduce the friction in translating on-the-ground evidence into policy choices.
 
 [Website](https://mbosley.github.io) · [CV (PDF)](https://mbosley.github.io/cv-bosley.pdf)
 
 Research focus:
 - AI-driven measurement ("qualitative methods at scale") for political/social text, with validity and transparency standards
 - Human–AI interaction and opinion formation, including adaptive conversational treatments
-- AI workflows for public policy, reducing friction from on-the-ground evidence → institutional choices
+- AI workflows for public policy, reducing friction from on-the-ground evidence → policy choices
 
 ## Current projects
 
