@@ -16,15 +16,13 @@ Research focus:
 | 🗣️ **[speaktrace](https://github.com/mbosley/speaktrace)** | Meeting annotation + speaker attribution (policy process support) |
 | 🎓 **[learnops](https://github.com/mbosley/learnops)** | Teaching/learning workflows and course-facing AI tooling |
 | 🧭 **[delibtrace](https://github.com/mbosley/delibtrace)** | Deliberative quality measurement at scale (DQI-style pipelines) |
+| 🧠 **[activeText](https://github.com/activetext/activeText)** | Sample-efficient text classification via semi-supervised + active learning |
 
 ## Selected writing
 
+- _Improving Probabilistic Models in Text Classification via Active Learning_ (2025, APSR). https://doi.org/10.1017/S0003055424000716
 - _Towards Qualitative Measurement at Scale: A Prompt-Engineering Framework for Large-Scale Analysis of Deliberative Quality in Parliamentary Debates_ (2025, JPIPE). https://doi.org/10.1561/113.00000128
 - (Forthcoming) Human–AI interaction survey experiment with an adaptive chatbot treatment (PNAS Nexus).
-
-## Previous foundation
-
-- 🧠 **[activeText](https://github.com/activetext/activeText)** — R package for active-learning text classification.
 
 ## Build principles
 
