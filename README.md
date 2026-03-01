@@ -1,11 +1,12 @@
+<!-- BEGIN GENERATED:PROFILE -->
 # Mitchell Bosley
 
 I build practical AI systems for communication intelligence, document workflows, and applied learning.
 
 Research focus:
-- **AI-driven measurement (“qualitative methods at scale”)** for political/social text, with validity and transparency standards
-- **Human–AI interaction and opinion formation**, including adaptive conversational treatments
-- **AI workflows for public policy**, reducing friction from on-the-ground evidence → institutional choices
+- AI-driven measurement ("qualitative methods at scale") for political/social text, with validity and transparency standards
+- Human–AI interaction and opinion formation, including adaptive conversational treatments
+- AI workflows for public policy, reducing friction from on-the-ground evidence → institutional choices
 
 ## Current projects
 
@@ -20,6 +21,7 @@ Research focus:
 
 ## Selected writing
 
-- _Improving Probabilistic Models in Text Classification via Active Learning_ (2025, APSR). https://doi.org/10.1017/S0003055424000716
-- _Towards Qualitative Measurement at Scale: A Prompt-Engineering Framework for Large-Scale Analysis of Deliberative Quality in Parliamentary Debates_ (2025, JPIPE). https://doi.org/10.1561/113.00000128
-- (Forthcoming) Human–AI interaction survey experiment with an adaptive chatbot treatment (PNAS Nexus).
+- _Improving Probabilistic Models in Text Classification via Active Learning_ (2024, American Political Science Review). https://doi.org/10.1017/S0003055424000716 ([code](https://github.com/activetext/activeText))
+- _Towards Qualitative Measurement at Scale: A Prompt-Engineering Framework for Large-Scale Analysis of Deliberative Quality in Parliamentary Debates_ (2025, Journal of Political Institutions and Political Economy). https://doi.org/10.1561/113.00000128 ([code](https://github.com/mbosley/delibtrace))
+- _Human–AI interaction survey experiment with an adaptive chatbot treatment_ (PNAS Nexus, forthcoming). https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5229084
+<!-- END GENERATED:PROFILE -->
