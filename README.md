@@ -18,7 +18,7 @@ Research focus:
 | 📄 **[parsekit](https://github.com/mbosley/parsekit)** | Agentic document intelligence primitives (measurement + policy workflows) |
 | 🗣️ **[speaktrace](https://github.com/mbosley/speaktrace)** | Meeting annotation + speaker attribution (policy process support) |
 | 🎓 **[learnops](https://github.com/mbosley/learnops)** | Teaching/learning workflows and course-facing AI tooling |
-| 🧩 **[gemini-ui-workbench](https://github.com/mbosley/gemini-ui-workbench)** | Gemini-first UI review, implementation-pack gating, and authenticated capture tooling |
+| ✨ **[gemini-studio](https://github.com/mbosley/gemini-studio)** | Gemini-facing monorepo for `ui-workbench`, `infocard-gen`, and `podcast-lab` |
 | 🧭 **[delibtrace](https://github.com/mbosley/delibtrace)** | Deliberative quality measurement at scale (DQI-style pipelines) |
 | 🧠 **[activeText](https://github.com/activetext/activeText)** | Sample-efficient text classification via semi-supervised + active learning |
 
